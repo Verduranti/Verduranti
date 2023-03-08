@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Verduranti
-- 👀 I’m interested in data, Javascript, IoT, whatever catches my eye really.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Kaggle competitions
+- 👀 I do analytics for startups
+- 🌱 I'm learning Astro
+- 💞️ I’m looking to help startups gain insight
 - 📫 How to reach me - DM me on Twitter @Verduranti
 
 <!---
