@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Verduranti
+- 👋 Hi, I’m @Verduranti but you can call me Chris
 - 👀 I do analytics for startups
 - 🌱 I'm learning Astro
 - 💞️ I’m looking to help startups gain insight
