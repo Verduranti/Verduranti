@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Verduranti but you can call me Chris
 - 👀 I do analytics for startups
-- 🌱 I'm learning React
 - 💞️ I’m looking to help startups gain insight
 - 📫 How to reach me - DM me on Twitter @Verduranti
 
